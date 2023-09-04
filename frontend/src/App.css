@@ -1,0 +1,41 @@
+body * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Helvetica, Arial, sans-serf;
+  color: #111;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+input[type="number"] {
+  padding: 0.5rem;
+  font-size: 1.2rem;
+}
+
+p {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+.signs {
+  display: flex;
+    margin: 1rem 0;
+}
+
+.signs div {
+  font-size: 1.5rem;
+  padding: 0.5rem;
+  width: 45px;
+  text-align: center;
+}
+
+.selected {
+  color: #fff;
+  background-color: #111;
+}
