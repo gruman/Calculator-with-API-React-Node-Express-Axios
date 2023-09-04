@@ -10,7 +10,7 @@
 
  The frontend uses React and Axios. Whenever a number or sign changes, a POST request is sent to the appropriate function in the API's controller. UseEffect is used to keep track of when and how thing change.
 
- ## Nextsteps
+ ## Next Steps
 
  Try making the calculator controller one function by using the same Switch method as the frontend.
 
