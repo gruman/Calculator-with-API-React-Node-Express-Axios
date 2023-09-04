@@ -1,4 +1,4 @@
-# Calculator with React, a Node and Express API, and Axios
+# Javascript Calculator with React, a Node and Express API, and Axios
  
  This is a realtime calculator using React, Node, Express, and Axios. You enter numbers, the numbers go to the API, and the answer comes back without hitting submit. See sample.png for the final product.
 
